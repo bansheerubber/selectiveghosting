@@ -1,3 +1,0 @@
-/home/me/Projects/dlls/selectiveghosting/CMakeFiles/rebuild_cache.dir
-/home/me/Projects/dlls/selectiveghosting/CMakeFiles/SelectiveGhosting.dir
-/home/me/Projects/dlls/selectiveghosting/CMakeFiles/edit_cache.dir
